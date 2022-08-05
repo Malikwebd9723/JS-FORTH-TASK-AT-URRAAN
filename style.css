@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+}
+h1{
+    margin: 2%;
+}
+input{
+    margin: 1%;
+}
+.addItems{
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 3% auto;
+    display: block;
+    font-size: 1rem;
+    padding: 5px;
+}
+.deleBtn{
+    border: none;
+    border-radius: 6px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+.CGPA{
+    margin-right: 7%;
+}
